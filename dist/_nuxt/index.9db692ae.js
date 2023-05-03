@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{a as o,o as t,b as c}from"./entry.bfccc7c4.js";const n={},s=c("p",null,"Index Page for Accounts",-1),r=[s];function a(_,d){return t(),o("div",null,r)}const l=e(n,[["render",a]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{a as o,o as r,b as s}from"./entry.bfccc7c4.js";const t={},n=s("p",null,"Resellers Corner",-1),c=[n];function _(a,l){return r(),o("div",null,c)}const f=e(t,[["render",_]]);export{f as default};

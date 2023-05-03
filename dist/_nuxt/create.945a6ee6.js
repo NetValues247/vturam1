@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{a as t,o,b as c}from"./entry.bfccc7c4.js";const n={},r=c("p",null,"Create an Account",-1),a=[r];function s(_,l){return o(),t("div",null,a)}const i=e(n,[["render",s]]);export{i as default};

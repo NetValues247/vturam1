@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper.c27b6911.js";import{a as r,t as o,o as a}from"./entry.bfccc7c4.js";const n={};function s(e,c){return a(),r("div",null,o(e.$route.params.type),1)}const f=t(n,[["render",s]]);export{f as default};

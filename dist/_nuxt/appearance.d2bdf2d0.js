@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{a,o as r}from"./entry.bfccc7c4.js";const n={};function o(c,t){return r(),a("div",null," Change Site Appearance and Colors ")}const _=e(n,[["render",o]]);export{_ as default};
