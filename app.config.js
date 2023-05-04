@@ -1,6 +1,6 @@
 export default defineAppConfig({
     foo: 'bar',
-    siteName : "Akfemtopup",
+    siteName : "RamsonTopIt",
     siteTheme : {
         primaryColor : "#4B4237",
         buttonBgColor : "#0f8B8D",
